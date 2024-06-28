@@ -1,8 +1,10 @@
-# CanSat 2023 Preliminary Design Review (PDR) Documentation
+# CanSat 2024 Preliminary Design Review (PDR) Documentation
 
 ## Overview
 
-The CanSat competition provides a unique opportunity for students to design, build, and launch a small satellite system. This document outlines the preliminary design review (PDR) for our CanSat project, which aims to fulfill the mission requirements set forth by the CanSat 2023 competition. Our CanSat system comprises a container and a payload, each designed to execute specific scientific and engineering tasks.
+The CanSat competition provides a unique opportunity for students to design, build, and launch a small satellite system. This document outlines the preliminary design review (PDR) for our CanSat project, which aims to fulfill the mission requirements set forth by the CanSat 2024 competition. Our CanSat system comprises a container and a payload, each designed to execute specific scientific and engineering tasks.
+
+![image](https://github.com/Qyuzet/ASP.NET-NextJs-Tailwind-Overview-Paper/assets/93258081/aa20435c-c37e-4020-bed4-456beb70dc0f)
 
 ## Team Organization
 
@@ -122,4 +124,4 @@ The mechanical subsystem encompasses the structural elements of both the contain
 
 ## Conclusion
 
-Our CanSat project embodies a comprehensive approach to meeting the CanSat 2023 competition requirements. Through meticulous design, rigorous trade studies, and thorough testing, we aim to achieve mission success and contribute valuable scientific data. The detailed design considerations and subsystem integrations outlined in this document demonstrate our team's commitment to excellence in engineering and innovation in the field of small satellite systems.
+Our CanSat project embodies a comprehensive approach to meeting the CanSat 2024 competition requirements. Through meticulous design, rigorous trade studies, and thorough testing, we aim to achieve mission success and contribute valuable scientific data. The detailed design considerations and subsystem integrations outlined in this document demonstrate our team's commitment to excellence in engineering and innovation in the field of small satellite systems.
