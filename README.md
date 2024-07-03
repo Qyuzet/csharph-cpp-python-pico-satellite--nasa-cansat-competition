@@ -100,11 +100,11 @@ The sensor subsystem includes the following components:
 
 For each sensor, we conducted trade studies to evaluate different models based on interfaces, resolution, cost, size, weight, and other relevant factors. The selected sensors are:
 
-- **Air Pressure Sensor:** [Model Name], chosen for its high resolution and reliability.
-- **Air Temperature Sensor:** [Model Name], selected for its accuracy and compact size.
-- **GPS Sensor:** [Model Name], chosen for its robust performance and ease of integration.
-- **Camera:** [Model Name], selected for its high-resolution imaging capabilities.
-- **Battery Voltage Sensor:** [Model Name], chosen for its precise monitoring capabilities.
+- **Air Pressure Sensor:** BME-280 & ASPD-4525, chosen for its high resolution and reliability.
+- **Air Temperature Sensor:** BME-280, selected for its accuracy and compact size.
+- **GPS Sensor:** Ublox NEO-M8N, chosen for its robust performance and ease of integration.
+- **Camera:** Raspberry PI Camera V1.3, selected for its high-resolution imaging capabilities.
+- **Battery Voltage Sensor:** Microcontroller A0 (Analog Pin), chosen for its precise monitoring capabilities.
 
 ## Descent Control Design
 
