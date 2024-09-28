@@ -1,4 +1,4 @@
-# CanSat 2024 Preliminary Design Review (PDR) Documentation
+# CanSat 2024 Preliminary Design Review (PDR) Documentation.
 
 ## Overview
 
